@@ -1,6 +1,6 @@
 # Weshop
 
-Aplikasi e-commerce yang menjual perangkat elektronik
+Sistem informasi toko online yang menjual perangkat elektronik
 
 ### Screenshoot :
 
