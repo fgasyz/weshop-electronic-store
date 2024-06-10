@@ -5,7 +5,7 @@ Sistem informasi toko online yang menjual perangkat elektronik
 ### Fitur :
 - Otentikasi 
 - Authorisasi
-- Manajemen Pemesanan
+- Manajemen Pemesanan Barang
 - Manajemen Pengiriman Barang
 - Manajemen Barang
 - Manajemen Keranjang Belanja
